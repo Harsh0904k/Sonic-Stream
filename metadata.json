@@ -1,0 +1,9 @@
+{
+  "name": "SonicStream",
+  "description": "A high-fidelity audio broadcasting platform that lets you share your device's system audio with others in real-time, featuring an AI DJ that analyzes the vibe.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "display-capture"
+  ]
+}
